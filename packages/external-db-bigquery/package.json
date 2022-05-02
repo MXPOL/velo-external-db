@@ -1,6 +1,6 @@
 {
   "name": "external-db-bigquery",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "license": "ISC",
   "main": "lib/index.js",
   "directories": {
@@ -21,12 +21,12 @@
   },
   "dependencies": {
     "@google-cloud/bigquery": "^5.9.1",
-    "velo-external-db-commons": "^0.0.0"
+    "velo-external-db-commons": "^1.0.1"
   },
   "devDependencies": {
     "chance": "^1.1.8",
     "jest-each": "^27.4.6",
     "jest-when": "^3.5.1",
-    "test-commons": "^0.0.0"
+    "test-commons": "^1.0.1"
   }
 }

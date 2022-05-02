@@ -1,6 +1,6 @@
 {
   "name": "velo-external-db",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "lib/app.js",
   "scripts": {
@@ -23,23 +23,23 @@
   "license": "ISC",
   "dependencies": {
     "compression": "^1.7.4",
-    "express": "^4.17.3",
     "ejs": "^3.1.7",
-    "external-db-airtable": "^0.0.0",
-    "external-db-security": "^0.0.0",
-    "external-db-bigquery": "^0.0.0",
-    "external-db-config": "^0.0.0",
-    "external-db-dynamodb": "^0.0.0",
-    "external-db-firestore": "^0.0.0",
-    "external-db-google-sheets": "^0.0.0",
-    "external-db-mongo": "^0.0.0",
-    "external-db-mssql": "^0.0.0",
-    "external-db-mysql": "^0.0.0",
-    "external-db-postgres": "^0.0.0",
-    "external-db-spanner": "^0.0.0",
+    "express": "^4.17.3",
+    "external-db-airtable": "^1.0.1",
+    "external-db-bigquery": "^1.0.1",
+    "external-db-config": "^1.0.1",
+    "external-db-dynamodb": "^1.0.1",
+    "external-db-firestore": "^1.0.1",
+    "external-db-google-sheets": "^1.0.1",
+    "external-db-mongo": "^1.0.1",
+    "external-db-mssql": "^1.0.1",
+    "external-db-mysql": "^1.0.1",
+    "external-db-postgres": "^1.0.1",
+    "external-db-security": "^1.0.1",
+    "external-db-spanner": "^1.0.1",
     "nested-property": "^4.0.0",
-    "velo-external-db-commons": "^0.0.0",
-    "velo-external-db-core": "^0.0.0"
+    "velo-external-db-commons": "^1.0.1",
+    "velo-external-db-core": "^1.0.1"
   },
   "devDependencies": {
     "async-wait-until": "^2.0.9",
@@ -48,8 +48,8 @@
     "docker-compose": "^0.23.17",
     "jest": "^27.5.1",
     "jest-each": "^27.4.6",
+    "jest-extended": "^2.0.0",
     "jest-when": "^3.5.1",
-    "test-commons": "^0.0.0",
-    "jest-extended": "^2.0.0"
+    "test-commons": "^1.0.1"
   }
 }

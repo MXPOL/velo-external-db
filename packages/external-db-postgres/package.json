@@ -1,6 +1,6 @@
 {
   "name": "external-db-postgres",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "Noam Almog <noama@wix.com>",
   "homepage": "https://github.com/wix-private/noam-external-db-poc#readme",
@@ -28,12 +28,12 @@
   "dependencies": {
     "pg": "^8.7.3",
     "pg-escape": "^0.2.0",
-    "velo-external-db-commons": "^0.0.0"
+    "velo-external-db-commons": "^1.0.1"
   },
   "devDependencies": {
+    "chance": "^1.1.8",
     "jest": "^27.5.1",
     "jest-when": "^3.5.1",
-    "test-commons": "^0.0.0",
-    "chance": "^1.1.8"
+    "test-commons": "^1.0.1"
   }
 }

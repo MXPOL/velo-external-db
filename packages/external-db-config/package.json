@@ -1,6 +1,6 @@
 {
 	"name": "external-db-config",
-	"version": "0.0.0",
+	"version": "1.0.1",
 	"description": "> TODO: description",
 	"author": "Max Polsky <maxim.polski@gmail.com>",
 	"homepage": "https://github.com/wix-private/noam-external-db-poc#readme",
@@ -28,8 +28,7 @@
 		"jest": "^27.5.1",
 		"jest-each": "^27.4.6",
 		"jest-when": "^3.5.1",
-
-		"test-commons": "^0.0.0"
+		"test-commons": "^1.0.1"
 	},
 	"dependencies": {
 		"@aws-sdk/client-secrets-manager": "^3.53.0",

@@ -1,6 +1,6 @@
 {
   "name": "external-db-google-sheets",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "license": "ISC",
   "main": "lib/index.js",
   "directories": {
@@ -19,12 +19,11 @@
     "express": "^4.17.3",
     "google-spreadsheet": "^3.2.0",
     "googleapis": "^95.0.0",
-    "velo-external-db-commons": "^0.0.0"
+    "velo-external-db-commons": "^1.0.1"
   },
   "devDependencies": {
     "jest": "^27.5.1",
-    "test-commons": "^0.0.0",
-
-    "jest-when": "^3.5.1"
+    "jest-when": "^3.5.1",
+    "test-commons": "^1.0.1"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "velo-external-db-core",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "Noam Almog <noama@wix.com>",
   "homepage": "https://github.com/wix-private/noam-external-db-poc#readme",
@@ -24,15 +24,15 @@
     "test": "jest"
   },
   "dependencies": {
+    "ajv": "^8.11.0",
     "compression": "^1.7.4",
     "express": "^4.17.3",
-    "ajv": "^8.11.0",
-    "external-db-config": "^0.0.0",
-    "external-db-security": "^0.0.0",
+    "external-db-config": "^1.0.1",
+    "external-db-security": "^1.0.1",
+    "nested-property": "^4.0.0",
     "node-cache": "^5.1.2",
     "uuid": "^8.3.2",
-    "nested-property": "^4.0.0",
-    "velo-external-db-commons": "^0.0.0"
+    "velo-external-db-commons": "^1.0.1"
   },
   "devDependencies": {
     "chance": "^1.1.8",
@@ -41,7 +41,7 @@
     "jest-extended": "^2.0.0",
     "jest-when": "^3.5.1",
     "rewire": "^6.0.0",
-    "test-commons": "^0.0.0",
+    "test-commons": "^1.0.1",
     "uuid-validate": "^0.0.3"
   },
   "bugs": {
