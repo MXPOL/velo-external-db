@@ -1,6 +1,6 @@
 {
   "name": "velo-external-db",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "main": "lib/app.js",
   "scripts": {
@@ -33,7 +33,7 @@
     "external-db-google-sheets": "^1.0.1",
     "external-db-mongo": "^1.0.1",
     "external-db-mssql": "^1.0.1",
-    "external-db-mysql": "^1.1.0",
+    "external-db-mysql": "^1.1.1",
     "external-db-postgres": "^1.0.1",
     "external-db-security": "^1.0.1",
     "external-db-spanner": "^1.0.1",
