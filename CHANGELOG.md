@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.1.0](https://github.com/MXPOL/velo-external-db/compare/v1.0.1...v1.1.0) (2022-05-02)
+
+
+### Features
+
+* new feat ([7cd2158](https://github.com/MXPOL/velo-external-db/commit/7cd21586956da46628a8cca7996d4efc1f1b865f))
+
+
+
+
+
 ## 1.0.1 (2022-05-02)
 
 
