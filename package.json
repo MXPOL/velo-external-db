@@ -57,6 +57,10 @@
       "external-db-security"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:MXPOL/velo-external-db.git"
+  },
   "lint-staged": {
     "*.js": "eslint --cache --fix"
   }
