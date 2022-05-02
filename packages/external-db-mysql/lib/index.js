@@ -12,7 +12,7 @@ const driver = () => require('../tests/drivers/sql_filter_transformer_test_suppo
 const opsDriver = () => require('../tests/drivers/db_operations_test_support')
 
 
-
+console.log('test')
 
 class MySqlConnector extends DbConnector {
     constructor() {
