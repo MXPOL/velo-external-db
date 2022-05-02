@@ -11,9 +11,6 @@ const { DbConnector } = require('velo-external-db-commons')
 const driver = () => require('../tests/drivers/sql_filter_transformer_test_support')
 const opsDriver = () => require('../tests/drivers/db_operations_test_support')
 
-
-console.log('test')
-
 class MySqlConnector extends DbConnector {
     constructor() {
         super(MySqlConfigValidator, init)
